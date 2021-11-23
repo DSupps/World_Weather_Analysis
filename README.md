@@ -1,6 +1,9 @@
-# World Weather Analysis
+# World Weather Analysis with Python APIs
 
 ## Project Overview:
+PlanMyTrip is a top travel technology company specialized in internet related services in the hotel and lodging industry.
+
+### Project Challenge:
 *The PlanMyTripp userinterface team has asked for help in collecting data for customers via the search page.  The team will then hope to filter based on their preferred travel criteria in order to find their ideal hotel anywhere in the world.*
 
 Deliverables:
