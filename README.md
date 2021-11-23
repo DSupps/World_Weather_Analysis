@@ -22,4 +22,6 @@ Deliverables:
 ## Project Results:
 I was able to successfully create on demand map with hotel locations based on minimum and maximum temperature requests. Markers on the map were able to provide Hotel Name, hotel city location, country, and current weather description. 
 
+![markers](https://user-images.githubusercontent.com/36451701/143144564-43a978ad-ba28-43a5-9b3a-eb68ef291658.png)
+
 I was also able to create a direction itinerary map containing four cities. The itinerary includes multiple waypoints that include Hotel Name, City, Country, and current weather description with the maximum temperature. 
